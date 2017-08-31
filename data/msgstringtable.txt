@@ -1251,7 +1251,7 @@ Boss Monster, '%s' ¨Ðà¡Ô´ËÅÑ§¨Ò¡ %d:%d.#
  àÁ×èÍ·èÒ¹µÒÂµÑÇÅÐ¤Ã¨ÐäÁèàÊÕÂ EXP à¾ÕÂ§á¤è¤ÃÑé§à´ÕÂÇ ÀÒÂã¹àÇÅÒ 30 ¹Ò·Õ#
  ÍÑµÃÒ¡ÒÃ´ÃÍ»äÍà·çÁà¾ÔèÁ¢Öé¹ 2 à·èÒà»ç¹àÇÅÒ 30 ¹Ò·Õ#
  ¢éÍÁÙÅ Boss Monster ¨ÐáÊ´§à»ç¹àÇÅÒ 10 ¹Ò·Õ#
-¤Ø³µéÍ§¡ÒÃ¨Ð«×éÍ '%s' ãªèäËÁ? %d áµéÁ¨Ð¶Ù¡ãªéä» ËÒ¡¾º»Ñ­ËÒ¡ÃØ³ÒµÔ´µèÍ·ÕÁ§Ò¹#
+¤Ø³µéÍ§¡ÒÃ¨Ð«×éÍÁÑ¹¨ÃÔ§æ ãªèäËÁ? %d áµéÁ¨Ð¶Ù¡ãªéä» ËÒ¡¾º»Ñ­ËÒ¡ÃØ³ÒµÔ´µèÍ·ÕÁ§Ò¹#
  ¤Ø³ÁÕáµéÁäÁè¾Í#
 ^ff0000ËÁ´ÍÒÂØ :^0000bb%s^000000#
  äÍà·çÁ '%s' ¨ÐËÒÂä»ã¹ÍÕ¡ %d ¹Ò·Õ#
@@ -2716,13 +2716,13 @@ Total : %s Crackers#
 The Crackers.#
 ^0000ff more than crackers^000000Did you enter the correct amount?#
 Over than 10billions secure check#
-10¾ï à¹ø¯ ÀÌ»ó ÀÔ·ÂÇÏ¼Åµµ °¡°ÝÀº 10¾ï à¹ø¯·Î ÆÇ¸ÅµË´Ï´Ù.#
-9,999à¹ø¯ ÀÌ»ó ÀÔ·ÂÇÏ¼Åµµ °¡°ÝÀº 9,999à¹ø¯·Î ÆÇ¸ÅµË´Ï´Ù.#
-°¡°ÝÀÌ 0 à¹ø¯ÀÎ ¾ÆÀÌÅÛÀÌ Á¸Àç ÇÕ´Ï´Ù. »óÁ¡À» ¿­¼ö ¾ø½À´Ï´Ù!#
+10¾ï à¹ø¯ ÀÌ»ó ÀÔ·ÂÇÏ¼Åµµ °¡°ÿÀº 10¾ï à¹ø¯·Î ÆÇ¸ÅµË´Ï´Ù.#
+9,999à¹ø¯ ÀÌ»ó ÀÔ·ÂÇÏ¼Åµµ °¡°ÿÀº 9,999à¹ø¯·Î ÆÇ¸ÅµË´Ï´Ù.#
+°¡°ÿÀÌ 0 à¹ø¯ÀÎ ¾ÆÀÌÅÿÀÌ Á¸Àç ÇÕ´Ï´Ù. »óÁ¡À» ¿­¼ö ¾ø½À´Ï´Ù!#
 »ó´ë Ä³¸¯ÅÍ°¡ ÃÖ´ë º¸À¯ à¹ø¯·®À» ÃÊ°úÇÏ¿© °Å·¡°¡ ºÒ°¡´É ÇÕ´Ï´Ù.#
-%s ¾ÆÀÌÅÛÀÇ °¡°ÝÀ» 10¾ïà¹ø¯ ÀÌÇÏ·Î ÀÔ·ÂÇØ ÁÖ¼¼¿ä.#
+%s ¾ÆÀÌÅÿÀÇ °¡°ÿÀ» 10¾ïà¹ø¯ ÀÌÇÏ·Î ÀÔ·ÂÇØ ÁÖ¼¼¿ä.#
 %s  :  %s  à¹ø¯ => %s EA#
-Á¦ÇÑ ±Ý¾× : %s à¹ø¯#
+Á¦ÇÑ ±ÿ¾× : %s à¹ø¯#
 %s %s à¹ø¯ %d °³#
 %s %d°³¸¦ %d à¹ø¯¿¡ ÆÇ¸Å ÇÏ¿´½À´Ï´Ù. ¼ö¼ö·á´Â 3%% ÀÔ´Ï´Ù.#
 RODEX#
@@ -2735,7 +2735,7 @@ You need to unequip Arrow and Ammunition.#
 Consuming item in inventory will close mail compose window.#
 You don't have any Magnifier.#
 Close email window if you want to discard item.#
-¹ï¤èÁÜ½Ð§A¥[¤J¦n¤Í¤¤.#
+¹ï¤èÁÿ½Ð§A¥[¤J¦n¤Í¤¤.#
 SCRIPT ERROR AID#
 \nErrorfile : %s\nErrorLine : %d line\nErrorContent: \n*before line : %s \n*Errorline : %s \n*next line:\n %s#
 ^ff0000Are you sure want to purchase the item? after confirmation will consume %d point and %d crackers.#
