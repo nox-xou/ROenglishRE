@@ -1916,7 +1916,7 @@ BUFF#
 สวมใส่อัตโนมัติ#
 1st. ATTACK#
 ATTACK#
-Next attack time : #
+Next attack time: #
 เมื่อตัวละครตาย#
 เมื่อชวนเข้า party#
 เก็บไอเทม#
@@ -2057,17 +2057,17 @@ Leave Party#
 Party Invitation#
 Party Name:#
 Player Name:#
- has recieved an invitation to join your party.#
+ has received an invitation to join your party.#
  rejected your party invitation.#
  accepted your party invitation.#
 Recruitment is already a party.#
 Same conditions such as the previous search.#
 Guild after withdrawl.#
 Party after secession.#
-The player can not be summoned to this map.#
+The player cannot be summoned to this map.#
 Party Leader is on a map that is restricted to summon players.#
 Summon has been denied.#
-Can not be summoned.#
+Cannot be summoned.#
 Only the leader can invite.#
 Search item:#
 You must enter a character name.#
@@ -2091,7 +2091,7 @@ Enter Guild Name#
 The character is not online or does not exist.#
 Failed to call Falcon.#
 %d%%(default 100%%+ Premium%d%%+%s Server%d%%)#
-This user is currently participating in the siege.#
+This user is currently participating in WoE.#
 It is only possible to change the party leader while on the same map.#
 In the current region it is not possible to change the party.#
 Gryphon making#
@@ -2328,20 +2328,20 @@ $$all#
 ค่าใช้จ่ายทั้งหมดดังนี้:#
  Zeny#
 ยืนยันการซื้อ#
-%.1f%% (PCRoom %.1f%% + TPLUS %.1f%% + Premium %.1f%% + %sServer %.1f%%)#
+%.1f%% (Internet cafe %.1f%% + TPLUS %.1f%% + Premium %.1f%% + %s Server %.1f%%)#
 Card Book#
-%d%% [ ( Basic 100%% + %sServer %d%% ) * Active %.1f ]#
-%d%% [ Basic 100%% + %sServer %d%% ]#
+%d%% [ ( Basic 100%% + %s Server %d%% ) * Active %.1f ]#
+%d%% [ Basic 100%% + %s Server %d%% ]#
 This is PK region. Minors,Please leave immediately.#
 Fatigue#
 Health and gaming revenue is 100%.#
 Fatigue because it is now a guest of the gaming revenue is down 50 percent.Hope for the proper health#
-Now because it is a non-health to the health of the guests want to offline games. If you still are online gaming revenue because the damage to the health of the game falls to 0% again after 5 hours will be restored offline.#
+Now because it is a non-health to the health of the guests want to offline games. If you still are online gaming revenue because the damage to the health of the game falls to 0%% again after 5 hours will be restored offline.#
 Online since %d minutes#
 Online Time: %d#
 Online since %d hours and %d minutes#
 /monsterhp : Show the hp of attacked monster. On off#
-Skills points : #
+Skill points : #
 There is no response from the authentification server. Please try again#
 Please change your password#
 Web Site#
@@ -2366,19 +2366,19 @@ Castles Owned#
 Clan Chat Messages#
 Go to Page Charged.#
 https://gfb.gameflier.com/Billing/ingame/index_new.asp?#
-Create char#
+Create Character#
 Name does not match#
 Enter the name of character#
 Sex Selection Window#
 Editing of the File Detected#
-Items obtained by opening the item is character bounded (can not move to storage). Do you want to open the box?#
+Items obtained by opening the item is character bounded (cannot move to storage). Do you want to open the box?#
 Game Settings#
 Game System#
 Game Commands#
 Game Command ON/OFF#
 Macro#
 Trading is prohibited in this Map#
-Vending is prohibited in this Map#
+Using cart is prohibited in this Map#
 In this Map,Effect of Mirace of Sun and Moon is nullified.#
 Ranking Board#
 Rank#
@@ -2410,7 +2410,7 @@ Currently,Server is full.           ^0000ffPeople Currently Waiting : %d        
 Currently,Server is full.           ^0000ffPeople Currently Waiting : %d                    Expected Waiting Time : %dMinutes %d Seconds#
 CBT is not an invited user#
 ------------------- Instruction --------------------#
-1) /Navigation or /navi ex) /navi prontera 100 100 -> /navi "MAPNAME", 100, 100#
+1) /Navigation or /navi ex) /navi prontera 100 100 -> /navi 'MAPNAME', 100, 100#
 2) /Navigation2 or /navi2 ex) /navi2 prontera 100 111 -> MAPNAME location (100 90), Scroll | Zeny | Plane (1: Enable or 0: Disable)#
 -> /navi2 goes with the case with location coordinates. They must be no less than 3 characters #
 3) $$all Output all the items (Can take a while...) #
@@ -2434,15 +2434,15 @@ Your hours will be terminated within 24 hours.Please Charge Quickly.#
 Current Time Left:%d hours.Charge the game for uninterrupted play.#
 Current Time Left:%d minutes.Charge the game for uninterrupted play.#
 Time Left: %d hours %d minutes#
-%d%% ( Basic 100%% + PCRoom %d%% + Premium %d%% + %sServer %d%% )#
+%d%% ( Basic 100%% + Internet cafe %d%% + Premium %d%% + %s Server %d%% )#
 After %d hours %d minutes, your game will be terminated.#
 This Account is permanently Banned.#
 This Account is banned.\nTermination Time:%04d-%02d-%02d %02d:%02d #
-Monster(Tab)#
+Mob(Tab)#
 Map(Alt)#
 Product Information#
 Find Information#
-Non-Process#
+Airship#
 Kafra#
 (Arrival)#
 Mob)%s:^dd0000%s^000000(%s)#
@@ -2453,31 +2453,31 @@ Mob)%s:^dd0000%s^000000(%s)#
 เบาบาง#
 น้อย#
 The bank is not available. Please try again in a few minutes.#
-Bank Balance is not enough.#
+Bank balance is low.#
 You don't have enough zeny#
 Minimum Deposit Amount: 1 zeny#
 Minimum Withdrawal Amount: 1 zeny#
 You cannot hold more than 2,147,483,647 Zeny#
 your account is lock by mobile otp#
 MOTP auth fail#
-JOB EXP from Monsters will increase %d%% for %dmins.#
+For %d minutes, Job experience obtained from monster is increased by %d%%.#
 Current Zeny: %s Zeny#
 Zeny#
 The Maximum amount is 2,147,483,647 Zeny#
-Your bullet is not enough#
+Insufficient bullet#
 You entered more than 1 Billion Zeny, the price will be set to 1 Billion Zeny.#
 AuthTicket is Not Valid#
 ErrorCategory : %d, ErrorCode : %d (%d,%d,%d,%d)#
-%d%% ( Basic 100%% + Premium %d%% + PCCafe %d%% + %s Server %d%% )#
-Basic item drop rate from monster hunting is increased for %dmins by %dtimes.#
-Basic item drop rate from monster hunting is increased for %dhour %.2dmins  by %dtimes.#
-The price of %s#
+%d%% ( Basic 100%% + Premium %d%% + Internet cafe %d%% + %s Server %d%% )#
+For %d minutes, item drop rate from defeating monster is increased by %d%%.#
+For %d minutes %.2d, item drop rate from defeating monster is increased by %d%%.#
+The price of^0000FF %s^000000#
 100000000#
- is more than ^ff0000%d^0000ff Million ^0000ffZeny^000000.#
+ is over ^FF0000%d00^0000FF million^000000 zeny and#
 10000000#
- ^ff0000%d^0000ff0,000,000^000000#
- Is it correct?#
-Safe check over 10million Zeny#
+ more than^FF0000 %d0^0000FF million^000000 zeny#
+. Is it correct?#
+Safe check for over 10 mil zeny#
 https://www.warpportal.com/account/login.aspx?ReturnUrl=%2faccount%2fpayment.aspx#
 https://kepler.warpportal.com/ro1/purchase/?step=1&steamid=%lld&accountname=#
 A giant crevice appeared in Bifrost, the bridge between Splendide, the end of the world and the floating continent of Alfheim, and you do not know the source of the labyrinth forest.#
@@ -2487,17 +2487,17 @@ When the melody reached its peak, a giant crevice appeared in Bifrost, the bridg
 Now, the only way to get to Bifrost is through the Labyrinth Forest. Nobody knows how the forest came to exist, and nobody has ever come out of it alive...#
 Swallowed countless adventurers to put a hell of confusion, wandering in the forest labyrinth of nowhere, like the heart of a woman was being extend deeper confusion.#
 You can enter only numbers.#
-Exchange or store window is active and can not register the withdrawal.#
+Exchange or store window is active and cannot register the withdrawal.#
 Go to#
-เปรียบเทียบ#
-Now you are trying to mount the gun equipped with bullet does not meet#
-Now you are trying to mount the guns and bullets will not fit mounted#
-Has not registered to sell the item. Please register to sell the item#
+Compare#
+This Weapon is not suitable for the bullet you are equipping.#
+This bullet is not suitable for the weapon you are equipping.#
+This item you want to sell is not registered. Please register the item first.#
 ITEM#
 Guild storage is not available.#
-Guild is not subscribed to. After signing up, please use #
-Two other guild members are in use. Please use it after a while.#
-Storage Permission#
+You are not joining any guild. Please try again after joining a guild.#
+Other guild member is using it. Please try againt later.#
+Strg Permit#
 Guild Storage#
 You do not have permission to use guild storage.#
 Limited Sale Registration Window#
@@ -2506,23 +2506,23 @@ Item DB Number#
 Number of Sale#
 Sale Start Time#
 Time to sell#
-Please enter number you want to sell#
+Please enter amount you want to sell#
 Enter start time of sale#
 Start time does not match the scope of sales.#
 Please enter the time#
 Please enter the Item DB Name#
 Item ID lookup failed. Please try again later#
->> ItemName: %s / Price: %dc / Quantity: %d / TimeOfSale: %dMonth:%dDay:%dMinute:%dSecond ~ %dMonth:%dDay:%dMinute:%Second#
+>> ItemName : %s / Price : %dc / Quantity : %d / TimeOfSale : %dMonth:%dDay:%dHour:%dMinute ~ %dMonth:%dDay:%dHour:%dMinute#
 Registration successful#
 Registration failure. Please try again later.#
 Item has already been registered. Please try again later.#
-Failed to delete the item. Please try again later.#
-%s item has been deleted.#
+Failed to remove this item. Please try again later.#
+%s item has been removed.#
 Special#
-Sales limited sale item update# 
-Discontinued#
-Quantity update is required #
-The %d is out of stock or to buy as much as#
+Update quantity of limited sale items#
+Sales closed#
+item count should be renewed#
+Item stock is low. You can only buy %d items.#
 %s Items are on sale#
 %s time-out or sale of the items sold has been shut down due to the limited sales #
 /limitedsale#
@@ -2530,11 +2530,11 @@ http://www.ragnarokeurope.com/news/home-r70.html#
 http://www.ragnarokeurope.com/index.php?rubrique=70&Steam#
 Item purchase successful#
 You do not have enough items.#
-Name of the character that cannot be invited.#
-You cannot invite the character to the guild.#
-Item already Sold,Purchase Failed..#
+Character with that name is not possible to invite.#
+Character with that name is not possbile to invite to the guild.#
+Unable to purchase, this item is out of stock.#
 Cannot save location as a Memo Point at current location.#
-Cannot purchase item, You exceeded the weight.#
+Cannot purchase item, You exceeded the weight limit.#
 No.#
 Item#
 Number#
@@ -2549,17 +2549,17 @@ Guild Storage Logs#
 100 entries are displayed.#
 Guild Storage is open only for 2 minutes, and will close automatically.#
 Incorrect GameSamba ID. Please Try Again.#
-%s [%d Option]: %d Quantity#
+%s [%d Option] : %d ea#
 Requires a Coin.#
 %d Coins are required.#
-Gatling Gun should be equipped with bullets.#
-Shotguns should be equipped with bullets.#
-Rifle should be equipped with bullets.#
-Pair of Revolver should be equipped with bullets.#
+[Gatling Gun] weapon class must be equipped.#
+[Shotgun] weapon class must be equipped.#
+[Rifle] weapon class must be equipped.#
+[Revolver] weapon class must be equipped.#
 [Silver Bullet] weapon class must be equipped.#
 Item Sell History#
 Item Purchase History#
-Grenade Launcher should be equipped with bullets.#
+[Grenade Launcher] weapon class must be equipped.#
 [Heat barrel],[Last Stand],[Platinum Alter] cannot be used while sitting.#
 Cannot use skill in this map.#
 If you are using a guild storage, all items inside it will disappear.#
@@ -2568,22 +2568,22 @@ Please enter a password to login.#
 Pet Evolution#
 Evolution - %s#
 Evolution requires the following ingredients:#
-Are you sure you want to evolve?#
+Are you sure want to evolve your pet?#
 Unknown Error#
-Does not have a pet summoned.#
+No pet can be summoned.#
 It is not requested petal.#
 Evolution material is low.#
-Lack the necessary material for evolution.#
-Only evolve when intimacy is Loyal.#
+Lack of required materials for evolution.#
+Can only evolve pet when intimacy is Loyal.#
 Automatic feeding#
-Feeding the pet. %d '%d' remaining#
+Feeding the pet. %s (%d) remaining#
 Automatic feeding turned On#
 Automatic feeding turned Off#
 Update#
 %d minutes ago#
 %d hours ago#
 %d days ago#
-%d%%% ( Premium %d%%% + %s Server )#
+%d%% ( Premium %d%% + %s Server )#
 Mailed#
 Your mail has been sent.#
 This item has been moved to the inventory.#
@@ -2591,34 +2591,34 @@ Failed to get items.#
 Please empty your inventory.#
 Zeny received.#
 Failed to get zeny.#
-Exceeded the limits of zenny.#
+Exceeded the limits of zeny.#
 Items attached success#
 The name of the recipient must be included.#
 The length of the title must be 4 to 50 characters long.#
 Mail delivery failed.#
 Transmission has failed to inappropriate items.#
 Information of the recipient does not exist.#
-%s [%d Option]#
+%s [%d ea]#
 Level, enter a number between 1 and %d.#
 Please free the window possessing space.#
 Sending mail count exceeded.#
-You can not open the mail.#
-You are currently joined in Clan !!#
-Gold PC rooms mileage information#
+You cannot open the mail.#
+You currently belong to a clan.#
+Internet cafe Gold mileage information#
 Unequip pet accessories first to start evolution#
-%d minutes later#
-%d hours later#
-%d days later#
+in %d minutes#
+in %d hours#
+in %d days#
 Press the OK button to confirm the C-CODE.#
 After obtaining the attached article can be deleted.#
-You can not send any more zeny.#
+You cannot send any more zeny.#
 Fee: %s Zeny#
 The recipient's name does not exist.#
 E X P : %.1f%% ( basic %.1f%% premium %.1f%% + %s %.1f%%)#
 DROP  : %.1f%% ( basic %.1f%% premium %.1f%% + %s %.1f%%)#
 DEATH : %.1f%% ( basic %.1f%% premium %.1f%% + %s %.1f%%)#
-You can accumulate points of PC Gold-club up to %d points maximum.#
-This function can not be used on the server.#
+You can accumulate points of Internet cafe Gold up to %d points maximum.#
+This function cannot be used on the server.#
 Imposible to use in server.#
 The auction is not available in server.#
 The deal is imposible in server.#
@@ -2679,10 +2679,10 @@ Other #
 Feat #
 Achieved challenges#
 You cannot add anymore.#
-< %S > achieved.#
+< %s > achieved.#
 only otp user login allow#
-#
-#
+When this button pressed, you will receive a specified initialized roulette item.#
+When this button pressed, the flashing arrows from the lines of the roulette wheel begins.#
 Title#
 Disable Title#
 Can't create a Guild in this area.#
@@ -2766,16 +2766,16 @@ Hair style#
 Extra color#
 Second Costume#
 In this map You can't memorize and zoom the minimap.#
-Enter Zeny Below 2,147,483,647.#
-Please Enter atleast 1 zeny.#
-You do not hold any zeny.#
+Enter zeny below 2,147,483,647.#
+Please enter at least 1 zeny.#
+You don't have any zeny.#
 Zeny Storage#
-in Bank#
+in bank#
 on hand#
 Deposit#
 Withdraw#
-1z UP#
-1z Down#
+1 z UP#
+1 z Down#
 Max#
 There is no Input value#
 Insufficient zeny#
@@ -2826,9 +2826,9 @@ Private airship#
 Please try again in a moment.#
 Not enough Zeny to use the private airship.#
 Not enough Cans to use the private airship.#
-You cannot meet the level to use the private airship.#
+You don't meet the level to use the private airship.#
 You cannot move to the selected point by the private airship.#
-You cannot use the private airship where you are now.#
+You cannot use the private airship from your current location.#
 Accessory#
 Second costume#
 Wardrobe#
@@ -2915,10 +2915,10 @@ The [%s] is not present, the default AI will be used instead.#
 %.1f%% ( Basic 100.0%% + Premium %.1f%% + %s %.1f%%)#
 Would you like to open a shop at this location?#
 Doram race can't wear this clothes#
-Street vending sales will be traded in RODEX#
+Street vending sales will be traded on RODEX#
 30,000 z#
 Malangdo Special Can 100 pc#
-Cannot carry anymore because weight limit over 80%#
+Cannot carry anymore because weight limit is over 80%#
 Unsold items are sent to RODEX#
 Wear costume#
 Assign Guild Leader#
@@ -2988,12 +2988,12 @@ Set item setting#
 Equip#
 Equipment will dissapear when refine fails#
 Equipment's refine level will decreased when refine fails#
-Equipment will dissapear or refine level will decreased when refine fails#
+Equipment will dissapear or refine level will decrease when refine fails#
 You cannot use RODEX while refining. RODEX has closed.#
 You cannot use RODEX while refining.#
 Please close other windows to continue.#
 Turn On Aura [Aura ON]#
-Turn Off Aura [Auta OFF]#
+Turn Off Aura [Aura OFF]#
 Aura is turned off. Please turn it on and try again#
 You need %d bullet(s) to activate the skill.#
 Do you want to change the equipment set?#
@@ -3185,17 +3185,17 @@ Fullscreen#
 Fixed mouse#
 Fee : #
 Total fee : #
-Party setting#
-Item share setting#
+Party settings#
+Item share settings#
 Change size(F10)#
-Mailbox loading\nPlease don't delete the^c92114 message^000000~!!#
+Mailbox is loading, Please don't delete the^c92114 message^000000~!!#
 NOW LOADING..#
 Tittle#
 Sender#
 Can't open two game windows, game installation might corrupt#
-New feature setting#
+More commands#
 This account does not exist.#
-Passwords do not match.#
+Password does not match.#
 Failed to pass IP authentication#
 No identification number, supplement your registration information#
 Account block#
@@ -3210,7 +3210,7 @@ Search & description#
 Location error#
 Search result[%d]#
 Display navigation icon setting#
-Path that use zeny#
+Path that uses zeny#
 navigation dock#
 Account is not active#
 Click on the location to share it in a chat room#
@@ -3227,6 +3227,14 @@ Open chat room#
 Character with this level cannot join the party#
 '%lld' Job Experience obtained#
 %lld Job Experience#
-Unable to open a shop on the current location#
+Unable to open a shop at the current location#
 seconds left before it's become usable#
 Cap#
+#
+#
+#
+#
+#
+#
+#
+Tips of the day#
